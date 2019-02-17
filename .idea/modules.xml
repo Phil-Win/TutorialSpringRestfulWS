@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TutorialSpringRestfulWS.iml" filepath="$PROJECT_DIR$/TutorialSpringRestfulWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TutorialSpringRestfulWS_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TutorialSpringRestfulWS_main.iml" group="TutorialSpringRestfulWS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TutorialSpringRestfulWS_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TutorialSpringRestfulWS_test.iml" group="TutorialSpringRestfulWS" />
+    </modules>
+  </component>
+</project>
